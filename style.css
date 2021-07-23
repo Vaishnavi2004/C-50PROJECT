@@ -1,0 +1,21 @@
+.header{
+    background-color: aqua;
+
+    display: flex;
+    justify-content:last baseline;
+}
+
+h1{
+    color: cadetblue;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+
+
+
+
